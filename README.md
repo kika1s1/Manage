@@ -1,8 +1,27 @@
-# React + Vite
+# Manage Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the project from my 2022 Tailwind Crash Course on YouTube.
 
-Currently, two official plugins are available:
+![Alt text](public/screen.png?raw=true)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Usage
+
+Install dependencies (Tailwind)
+
+```
+npm install
+```
+
+Run the Tailwind CLI to compile.
+
+```
+npm run dev
+```
+
+To build once run...
+
+```
+npm run build
+```
+
+You can edit the scripts in package.json and the tailwind.config.js 
