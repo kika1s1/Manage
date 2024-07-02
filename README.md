@@ -1,6 +1,6 @@
 # Manage Landing Page
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
+This is the project from my 2024 Tailwindcss.
 
 ![Alt text](public/screen.png?raw=true)
 
